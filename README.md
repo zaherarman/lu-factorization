@@ -12,7 +12,6 @@ This project demonstrates how to:
 
 ```
 lu-factorization/
-├── .gitignore
 ├── README.md
 ├── input.txt
 ├── config.txt
